@@ -268,7 +268,11 @@
 ## 7. Environment & Operations
 
 ### Local Development
-- Use consistent development environments (Docker)
+- Use Herd as the primary development environment for Laravel
+- Take advantage of Herd's zero-configuration PHP, MySQL, and Redis setup
+- Utilize automatic SSL certificates for local development
+- Leverage Herd's custom site creation for multiple projects
+- For alternatives, consider Docker with Laravel Sail
 - Set up proper environment variables
 - Configure debugging tools
 - Use hot reloading for faster development
